@@ -1,0 +1,1 @@
+docker container run -d --name gdsapp -p 80:80 gdsapp:latest
